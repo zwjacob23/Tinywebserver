@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/mnt/d/leetcode/.vscode/webserver/build",
+  "command": "/usr/bin/c++   -I/usr/bin/mysql  -g   -o CMakeFiles/test1.dir/buffer.cpp.o -c /mnt/d/leetcode/.vscode/webserver/buffer.cpp",
+  "file": "/mnt/d/leetcode/.vscode/webserver/buffer.cpp"
+},
+{
+  "directory": "/mnt/d/leetcode/.vscode/webserver/build",
+  "command": "/usr/bin/c++   -I/usr/bin/mysql  -g   -o CMakeFiles/test1.dir/log.cpp.o -c /mnt/d/leetcode/.vscode/webserver/log.cpp",
+  "file": "/mnt/d/leetcode/.vscode/webserver/log.cpp"
+},
+{
+  "directory": "/mnt/d/leetcode/.vscode/webserver/build",
+  "command": "/usr/bin/c++   -I/usr/bin/mysql  -g   -o CMakeFiles/test1.dir/sqlconnpool.cpp.o -c /mnt/d/leetcode/.vscode/webserver/sqlconnpool.cpp",
+  "file": "/mnt/d/leetcode/.vscode/webserver/sqlconnpool.cpp"
+},
+{
+  "directory": "/mnt/d/leetcode/.vscode/webserver/build",
+  "command": "/usr/bin/c++   -I/usr/bin/mysql  -g   -o CMakeFiles/test1.dir/test.cpp.o -c /mnt/d/leetcode/.vscode/webserver/test.cpp",
+  "file": "/mnt/d/leetcode/.vscode/webserver/test.cpp"
+}
+]
