@@ -1,5 +1,0 @@
-/mnt/d/leetcode/.vscode/webserver/build/CMakeFiles/edit_cache.dir
-/mnt/d/leetcode/.vscode/webserver/build/CMakeFiles/rebuild_cache.dir
-/mnt/d/leetcode/.vscode/webserver/build/CMakeFiles/package.dir
-/mnt/d/leetcode/.vscode/webserver/build/CMakeFiles/package_source.dir
-/mnt/d/leetcode/.vscode/webserver/build/CMakeFiles/test1.dir
