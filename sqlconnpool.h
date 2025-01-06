@@ -12,7 +12,7 @@
 
 //连接池，在项目开始的时候就要建立许多个和数据库的连接，以提高我们访问数据库的效率
 
-
+//连接的是mysql数据库，但是访问的是数据库里的哪个database呢？
 class SqlConnPool {
 public:
     static SqlConnPool *Instance();

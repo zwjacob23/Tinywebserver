@@ -28,8 +28,8 @@ public:
     bool parse(Buffer& buff);   
 
     std::string path() const;
-    std::string& path();//返回一个字符串的引用。
-    std::string method() const;
+    std::string& path();//返回一个字符串的引用。//这个path是什么的path？这几个返回是什么东西，是解出来的字段吗？
+    std::string method() const;//const的意思是常量成员函数，不能修改任何成员变量的值
     std::string version() const;
     std::string GetPost(const std::string& key) const;
     std::string GetPost(const char* key) const;
@@ -47,7 +47,7 @@ private:
 
     static bool UserVerify(const std::string& name, const std::string& pwd, bool isLogin);  // 用户验证
 
-    PARSE_STATE state_;
+    PARSE_STATE state_;//枚举类
     std::string method_, path_, version_, body_;
     std::unordered_map<std::string, std::string> header_;
     std::unordered_map<std::string, std::string> post_;
